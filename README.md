@@ -1,13 +1,14 @@
 # YoloFaster_Rcnn-Detection
 
-Repository with implementations and comparisons of two advanced object detection models: YOLO and Faster R-CNN. The goal is to provide a unified platform to explore, test, and compare the performance of these models across diverse datasets and scenarios.
+This project was developed by António Pedro Silva Matos for object detection using the YOLO (You Only Look Once) and Faster R-CNN (Regions with Convolutional Neural Networks) models. The goal is to provide a unified platform to explore, test, and compare the performance of these models across diverse datasets and scenarios. 
 
 ## Summary
 
 1. [**Introduction**](#introduction)
 2. [**Overview**](#overview)
 3. [**Functionalities**](#functionalities)
-4. [**Requirements**](#requirements)
+4. [**Configuration**](#configuration)
+5. [**Requirements**](#requirements)
 
 ## Introduction
 
@@ -36,11 +37,12 @@ Object detection is a crucial area of ​​computer vision, with applications i
 
  -> Datasets: Support for multiple popular datasets such as COCO, Pascal, VOC, and others.
 
-# Requirements
+## Configuration
+
+## Requirements
 
  - Python 3.7 or higher
  
  - TensorFlow 2.x or PyTorch 1.x
 
  - Additional libraries listed in requirements.txt
- 
