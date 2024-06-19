@@ -98,6 +98,8 @@ Feel free to open issues and submit pull requests. Contributions are welcome!
 
 We consider exploring the Darknet YOLO ecosystem for valuable insights and testing different dataset versions and models. Our goal is to improve object detection using the official [Darknet repository](https://github.com/AlexeyAB/darknet). We plan to create a personalized dataset with relevant objects to improve the mobility of the visually impaired, aiming to significantly increase detection accuracy.
 
+For this code we utilize a flexx2 depth camera from [Pmdtec](https://3d.pmdtec.com/en/3d-cameras/flexx2/)
+
 # License
 
 YoloFaster_Rcnn-Detection itself is released under the MIT License (refer to the LICENSE file for details). Portions of the code are borrowed and given by [pmdtechnologies](https://github.com/pmdtechnologies/SampleYOLO) and from their [RoyaleSDK](https://pmdtec.com/en/download-sdk/)
