@@ -26,8 +26,6 @@ Object detection is a crucial area of ​​computer vision, with applications i
 
   - YOLO and Faster R-CNN implementations using popular frameworks such as TensorFlow and PyTorch.
   
-  - Scripts to train and evaluate both models on different datasets.
-  
   - Detailed performance comparisons, including metrics such as precision, recall, and inference time.
 
   - Guides to help understand and replicate results.
