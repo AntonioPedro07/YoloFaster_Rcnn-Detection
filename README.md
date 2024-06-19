@@ -9,6 +9,10 @@ This project was developed by António Pedro Silva Matos for object detection us
 3. [**Functionalities**](#functionalities)
 4. [**Configuration**](#configuration)
 5. [**Requirements**](#requirements)
+6. [**Configuration**](#configuration)
+7. [**Preperation**](#preperation)
+   - [**Download**](#download)
+   - [**Installation**](#installation)
 
 ## Introduction
 
@@ -38,6 +42,8 @@ Object detection is a crucial area of ​​computer vision, with applications i
  -> Datasets: Support for multiple popular datasets such as COCO, Pascal, VOC, and others.
 
 ## Configuration
+
+This project uses `Yolov4`
 
 ## Requirements
 
