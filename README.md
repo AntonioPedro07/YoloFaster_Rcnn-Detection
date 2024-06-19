@@ -100,4 +100,4 @@ For this code we utilize a flexx2 depth camera from [Pmdtec](https://3d.pmdtec.c
 
 # License
 
-YoloFaster_Rcnn-Detection itself is released under the MIT License (refer to the LICENSE file for details). Portions of the code are borrowed and given by [pmdtechnologies](https://github.com/pmdtechnologies/SampleYOLO) and from their [RoyaleSDK](https://pmdtec.com/en/download-sdk/)
+YoloFaster_Rcnn-Detection itself is released under the MIT License, see the [LICENSE](https://github.com/AntonioPedro07/YoloFaster_Rcnn-Detection/blob/main/README.md) file for moredetails. Portions of the code are borrowed and given by [pmdtechnologies](https://github.com/pmdtechnologies/SampleYOLO) and from their [RoyaleSDK](https://pmdtec.com/en/download-sdk/)
