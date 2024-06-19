@@ -23,6 +23,6 @@ Object detection is a crucial area of ​​computer vision, with applications i
 
 # Requirements
 
- Python 3.7 or higher
- TensorFlow 2.x or PyTorch 1.x
+ . Python 3.7 or higher
+ . TensorFlow 2.x or PyTorch 1.x
  
