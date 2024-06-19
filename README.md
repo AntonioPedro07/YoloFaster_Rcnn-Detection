@@ -9,6 +9,8 @@ Object detection is a crucial area of ​​computer vision, with applications i
   -> Scripts to train and evaluate both models on different datasets.
   
   -> Detailed performance comparisons, including metrics such as precision, recall, and inference time.
+
+  -> Guides to help understand and replicate results.
   
 
 ## Functionalities
@@ -23,7 +25,9 @@ Object detection is a crucial area of ​​computer vision, with applications i
 
 # Requirements
 
- . Python 3.7 or higher
+ - Python 3.7 or higher
  
- . TensorFlow 2.x or PyTorch 1.x
+ - TensorFlow 2.x or PyTorch 1.x
+
+ - Additional libraries listed in requirements.txt
  
