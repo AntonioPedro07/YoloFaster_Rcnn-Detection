@@ -5,8 +5,9 @@ Repository with implementations and comparisons of two advanced object detection
 ## Summary
 
 1. [**Introduction**](#introduction)
-2. []
-3. []
+2. [**Overview**](#overview)
+3. [**Functionalities**](#functionalities)
+4. [**Requirements**](#requirements)
 
 ## Introduction
 
