@@ -1,0 +1,6 @@
+# pip install -r requirements.txt
+
+matplotlib >= 3.7.5
+numpy >= 1.24.3
+opencv-python >= 4.7.0.72
+torch >= 2.2.1
